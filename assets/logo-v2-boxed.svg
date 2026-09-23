@@ -1,0 +1,29 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="markGradBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2fe0d5"/>
+      <stop offset="100%" stop-color="#159088"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" rx="96" fill="#080f24"/>
+  <path d="M256 46
+           L 410 137
+           A 40 40 0 0 1 430 172
+           L 430 340
+           A 40 40 0 0 1 410 375
+           L 256 466
+           A 40 40 0 0 1 216 466
+           L 62 375
+           A 40 40 0 0 1 42 340
+           L 42 172
+           A 40 40 0 0 1 62 137
+           L 216 46
+           A 40 40 0 0 1 256 46 Z"
+        fill="none" stroke="url(#markGradBg)" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M 316 196
+           A 66 66 0 1 0 322 318
+           L 322 264
+           L 270 264"
+        fill="none" stroke="url(#markGradBg)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="316" cy="196" r="12" fill="#2fe0d5"/>
+</svg>
